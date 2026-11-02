@@ -18,10 +18,6 @@ Malware Reverse Engineering & Blue Team
 * 🐜 **[Black Ant](https://github.com/dnqixxt/black-ant-re):** Deep static dissection engine with recursive unpacking and AI CTI generation.
 * 🦎 **[Salamander](https://github.com/dnqixxt/salamander-re):** Perimeter pre-filter for mass triage using $O(1)$ hashing and YARA.
 
-### 🧪 Security Labs
-* **[AD Attack & Defense](https://github.com/dnqixxt/AD-Attack-Defense-QRadar-Lab):** Detecting Credential Dumping & Lateral Movement in QRadar.
-* **[Wazuh Active Response](https://github.com/dnqixxt/Wazuh-SOC-Lab-Active-Response):** Real-time automated mitigation for Brute Force attacks.
-
 ### 📩 Contact
 [LinkedIn](https://www.linkedin.com/in/eduardo-masceno-047265321) | [Email](mailto:mascenoeduardo@gmail.com)
 
